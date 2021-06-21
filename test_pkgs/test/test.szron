@@ -7,7 +7,7 @@ description="a test package which is... for tests? yeah self explanatory"
 package_type="binary"
 # package_type="build"
 [binary]
-compression="none"
+compression="None"
 url="https://github.com/rhombicosidodecahedron-aaa/testpkgforszrontestrepo/releases/download/1.0/test"
 copy="^ALL"
 copy_to="^BINARY_LOCATION"
